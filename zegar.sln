@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zegar", "zegar\zegar.csproj", "{43907493-E44B-40B7-9A67-5EC998E3CF33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43907493-E44B-40B7-9A67-5EC998E3CF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43907493-E44B-40B7-9A67-5EC998E3CF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43907493-E44B-40B7-9A67-5EC998E3CF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43907493-E44B-40B7-9A67-5EC998E3CF33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {129FF2C1-EDAF-41C9-9E5E-D78388C3D780}
+	EndGlobalSection
+EndGlobal
